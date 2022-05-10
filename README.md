@@ -2,7 +2,7 @@
 Nuestro E-Commerce estará enfocado en la venta de perifericos para gamers de corazón.
 Aquí encontraremos los mejores precios del mercado en las mejores marcas. 
 Podremos encontrar accesorios  como: Teclados Mecánicos, Monitores, Mouses, Audio.
-Y podremos encontrar partes como: Memorias RAM, GPUs, CPUs, MotherBoards, Fuentes. 
+
 
 
 Referencias: 
