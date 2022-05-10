@@ -11,3 +11,4 @@ Referencias:
 - https://clonesyperifericos.com/descarga-la-lista-precios-partes-pc-gamer-unilago/
 - https://www.cyberpuerta.mx/
 - https://thotcomputacion.com.uy/
+- https://store.nvidia.com/en-us/geforce/store/?page=1&limit=9&locale=en-us
